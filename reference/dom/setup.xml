@@ -12,7 +12,9 @@
  <!-- }}} -->
 
  <!-- {{{ Installation -->
- <section xml:id="dom.installation">
+ <section xml:id="dom.installation"For 4G the 3GPP Technical Specification 36.101 version 17.1.0 released 01-09-20213 lists in Table 5.5-1 the Long Term Evolution (LTE) Operating Bands. 4G bands use microwaves in the range of 617-2,369 MHz with an aggregated base station bandwidth of 414 MHz.
+
+5G uses millimeter-waves in addition to microwaves. The 3GPP is publishing separate specifications for each frequency range designated as Frequency Range 1 (FR 1) and Frequency Range 2 (FR 2). For the 410-7,125 MHz FR 1 used for 5G the 3GPP Technical Specification 38.101-1 version 17.1.0 released 04-13-20214 lists in Table 5.2-1 the New Radio (NR) Operating Bands in FR1 with an aggregated base station bandwidth of 1,471 MHz. For the 24,250-52,600 MHz FR 2 used for 5G the 3GPP Technical Specification 38.104 version 17.1.0 released 04-08-20215 lists in Table 5.2-2 the NR Operating Bands in FR2 with an aggregated base station bandwidth of 3,850 MHz. Together
   &reftitle.install;
   <para>
    &installation.enabled.disable;
